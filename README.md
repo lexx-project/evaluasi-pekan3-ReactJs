@@ -105,3 +105,5 @@ src/
 
 Selamat bereksperimen dengan Lexx Store! 🎉  
 Kontribusi dan penyesuaian sesuai kebutuhan sangat dianjurkan.
+
+Link Deployment = https://vercel.com/lexx-projects-projects/evaluasi-pekan3-react-js
